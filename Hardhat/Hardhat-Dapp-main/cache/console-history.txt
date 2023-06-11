@@ -1,0 +1,13 @@
+await lock.greet();
+await lock.setGreeting("Hello, Rana");
+lock.setGreeting("Hello, Rana");
+lock.setGreeting();
+await lock.greet();
+await lock.great();
+await lock.great
+lock.address
+const lock = await Lock.deploy("Hello, world!");
+const Lock = await ethers.getContractFactory("Lock");
+await ethers.getContractFactory("Lock");
+await ethers.getSigners();
+ethers

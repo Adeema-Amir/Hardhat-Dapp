@@ -1,0 +1,71 @@
+npx hardhat
+
+npm install --save-dev @nomiclabs/hardhat-waffle 'ethereum-waffle@^3.0.0' @nomiclabs/hardhat-ethers 'ethers@^5.0.0' @types/sinon-chai@^3.2.3
+
+hardhat.config.js
+
+test
+
+contract
+
+script
+
+npx hardhat accounts
+
+
+npx hardhat node
+
+npx hardhat console
+
+ethers
+
+await ethers.getSigner();
+
+
+npx hardhat compile
+
+await ethers.getContractFactory("Greeter");
+
+
+const Greeter = await ethers.getContractFactory("Greeter");
+
+
+ const greeter = await Greeter.deploy("Hello, web2");
+
+
+greeter
+
+greeter.address
+
+
+await greeter.greet();
+
+
+await mygreeter.setGreeting("second");
+
+
+npm install chai
+
+npx hardhat test
+
+
+npx hardhat run scripts/deploy.js  
+
+npx hardhat run scripts/deploy.js
+
+sepolia ethersacn ma gana ha search bar ma deploy ka link paste karna ha
+
+make a new folder on desktop
+
+npm init
+
+npm install ethers
+
+node account.js
+
+on chrome console
+
+window.etherum
+
+await window.ethereum.request({method : "eth_requestAccounts"})
+
